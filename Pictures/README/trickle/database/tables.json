@@ -1,0 +1,25 @@
+[
+  {
+    "name": "saved_readme",
+    "fields": [
+      {
+        "name": "projectName",
+        "type": "text",
+        "description": "Name or short description of the project",
+        "options": null
+      },
+      {
+        "name": "markdown",
+        "type": "text",
+        "description": "The generated markdown content",
+        "options": null
+      },
+      {
+        "name": "techStack",
+        "type": "array",
+        "description": "The technologies detected and used for generation",
+        "options": null
+      }
+    ]
+  }
+]
